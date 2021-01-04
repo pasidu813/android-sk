@@ -1,0 +1,2 @@
+include ':app', ':czutil'
+rootProject.name='CZ Util App'
